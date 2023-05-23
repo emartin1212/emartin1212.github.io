@@ -4,7 +4,7 @@ h1 {text-align: left;}
 h6 {text-align: left;}
 h2 {text-align: left;
 font-size: 300%;
-font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+font-family:  Georgia, Times, 'Times New Roman', serif;}
 a {text-align: top;
 text-align: center;}
 .nav {
@@ -39,6 +39,8 @@ ul {font-size: 100%;}
 img {display: block;
     margin-left: auto;
     margin-right: auto;}
-table {text-align: center;
+tr {text-align: center;
 font-size: 100%;}
 p {font-size: 100%;}
+td {text-align: center;
+    font-size: 100%;}
