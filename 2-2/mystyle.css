@@ -47,14 +47,14 @@ color: white;}
 
 ul {font-size: 100%;}
 
-img {  border: 1px solid #ddd;
+img {display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    border: 1px solid #ddd;
     border-radius: 4px;
     padding: 5px;
     width: 150px; 
-    float: right;
-    display: block;
-    margin-left: auto;
-    margin-right: auto
+    
  }
 
 tr {text-align: center;
