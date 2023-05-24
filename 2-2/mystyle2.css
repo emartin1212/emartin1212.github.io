@@ -1,7 +1,6 @@
-img {display: block;
-    margin-left: auto;
-    margin-right: auto; 
- }
+body {background-color: #5F6B88;
+}
+
  h2 {text-align: center;
     padding: 5;
     border-style: groove;
@@ -38,3 +37,7 @@ display: inline-block;}
 a:hover, a:active {
 background-color: #2274C7;
 color: white;}
+img {display: block;
+    margin-left: auto;
+    margin-right: auto; 
+ }
