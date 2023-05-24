@@ -7,8 +7,7 @@ body {background-color: #5F6B88;
 font-size: 300%;
 font-family:  Georgia, Times, 'Times New Roman', serif;}
 
-a {text-align: top;
-text-align: center;}
+
 
 .nav {
 background-color: #5F6B88; 
@@ -41,3 +40,5 @@ img {display: block;
     margin-left: auto;
     margin-right: auto; 
  }
+ a {text-align: top;
+text-align: center;}
