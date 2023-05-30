@@ -21,8 +21,8 @@ text-align: center;}
 background-color: #5F6B88; 
 list-style-type: none;
 text-align: center;
-margin: 3;
-padding: 5;
+margin: 1.5;
+padding: 2;
 border-style: groove;
 }
 
@@ -45,7 +45,7 @@ a:hover, a:active {
 background-color: #2274C7;
 color: white;}
 
-ul {font-size: 100%;}
+ul {font-size: 200%;}
 
 img {float: center;
     border: 1px solid #ddd;
@@ -55,15 +55,15 @@ img {float: center;
  }
 
 tr {text-align: center;
-font-size: 100%;
+font-size: 200%;
 border-style: double;
 padding: auto;}
 
-p {font-size: 100%;
+p {font-size: 200%;
 text-align: center;}
 
 td {text-align: center;
-    font-size: 100%;
+    font-size: 200%;
 border-style: double;
 padding: auto;}
 textarea {
