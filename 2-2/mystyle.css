@@ -47,10 +47,9 @@ color: white;}
 
 ul {font-size: 100%;}
 
-img {
+img {float: right;
     border: 1px solid #ddd;
-    border-radius: 4px;
-    padding: 5px;
+    padding: 2px;
     width: 150px; 
     
  }
