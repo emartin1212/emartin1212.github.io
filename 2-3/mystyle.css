@@ -14,8 +14,7 @@ h2 {text-align: center;
 font-size: 300%;
 font-family:  Georgia, Times, 'Times New Roman', serif;}
 
-a {text-align: top;
-text-align: center;}
+
 
 .nav {
 background-color: #5F6B88; 
@@ -104,3 +103,5 @@ textarea {
     margin: 4px 2px;
     cursor: pointer;
   }
+  a {text-align: top;
+text-align: center;}
