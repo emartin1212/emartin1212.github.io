@@ -12,7 +12,7 @@ input[type=submit] {
     cursor: pointer;
   }
   div{ font-weight: bold;
-font-size: 200%;}
+font-size: 400%;}
   
   input[type=submit]:hover {
     background-color: #2274C7;
@@ -37,10 +37,9 @@ font-size: 200%;}
   .bottomright {
     position: absolute;
     bottom: 8px;
-    left: 16px;
+    right: 16px;
     font-size: 18px;
   }
-  
   img { 
     width: 100%;
     height: auto;
