@@ -14,6 +14,20 @@ input[type=submit] {
   input[type=submit]:hover {
     background-color: #2274C7;
   }
-  img {height: 20px;
-    width:100%
-}
+  .container {
+    position: relative;
+  }
+  
+  .center {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+  }
+  
+  img { 
+    width: 100%;
+    height: auto;
+    opacity: 0.3;
+  }
