@@ -1,7 +1,7 @@
-h1{font-weight: bold
-color= white;
-}
-a {float:inline}
+
+a {float:inline;}
+P{color: royalblue;
+float: right;}
 input[type=submit] {
     width: 100%;
     background-color: #2274C7;
