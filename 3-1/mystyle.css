@@ -14,3 +14,6 @@ input[type=submit] {
   input[type=submit]:hover {
     background-color: #2274C7;
   }
+  img {height: 20px;
+    width:100%
+}
