@@ -1,7 +1,6 @@
 
 a {float:inline;}
-P{color: royalblue;
-float: right;}
+
 input[type=submit] {
     width: 100%;
     background-color: #2274C7;
@@ -48,3 +47,6 @@ font-size: 400%;}
     height: auto;
     opacity: 0.3;
   }
+  li{font-weight: 900;}
+  p{color: royalblue;
+float: right;}
