@@ -26,7 +26,8 @@ input[type=submit] {
     color: white;
   }
   div{ font-weight: bold;
-font-size: 400%;}
+font-size: 400%;
+color: white;}
   
   input[type=submit]:hover {
     background-color: #2274C7;
@@ -48,7 +49,8 @@ font-size: 400%;}
     opacity: 0.3;
   }
   li{font-weight: 900;
-float:right;}
+float:center;
+text-decoration: none;}
   p{color: royalblue;
 float: right;
 font-weight: 800;}
